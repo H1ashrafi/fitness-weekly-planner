@@ -92,4 +92,4 @@ flutter test
 
 ## License
 
-Code: MIT (see `LICENSE`). The 3D anatomy model is CC BY-SA 2.1 Japan, see `NOTICE.md`.
+Free for personal, educational and research use. **Commercial use (selling, publishing the app in a store, or using it in a paid product) is not allowed without written permission.** See `LICENSE` (PolyForm Noncommercial 1.0.0). The 3D anatomy model is a separate work under CC BY-SA 2.1 Japan, see `NOTICE.md`.
